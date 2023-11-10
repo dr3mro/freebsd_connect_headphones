@@ -1,5 +1,5 @@
-####3 Copyright 2023 Dr Amr Osman, Consultant of cardiology
-#### BSD 3 Clause 
+Copyright 2023 © Dr Amr Osman, Consultant of cardiology
+BSD 3 Clause 
 
 ## To get bluetooth working I did the following
 ## First make sure that bluetooth stack is working and your bluetooth is detected ( refere to the handbook)
